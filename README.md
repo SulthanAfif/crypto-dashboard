@@ -14,6 +14,9 @@ Project ini cocok untuk portfolio karena menampilkan kemampuan:
 
 ---
 
+## Live Demo
+https://crypto-dashboard-gamma-three.vercel.app/
+
 ## Deskripsi Project
 
 CryptoDash adalah aplikasi web untuk memantau pasar cryptocurrency.  
